@@ -1,4 +1,4 @@
-h1 align="center">Hi 👋, I'm Yossi Azulay</h1>
+<h1 align="center">Hi 👋, I'm Yossi Azulay</h1>
 <h3 align="center">DevOps engineer with a passion for automating infrastructure, improving software delivery pipelines, and optimizing cloud-based environments. Strong background in various DevOps tools and technologies, including CI/CD, containerization, orchestration, and infrastructure-as-code.</h3>
 
 ## Skills
